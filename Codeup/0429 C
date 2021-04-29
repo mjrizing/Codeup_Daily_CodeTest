@@ -1,4 +1,12 @@
 [1102]
+```
+This is a normal paragraph:
+
+    This is a code block.
+    
+end code block.
+```
+
 #include <stdio.h>
 
 int main() {
