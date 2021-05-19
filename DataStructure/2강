@@ -1,0 +1,12 @@
+# 프로그램 설치: anaconda 
+* anaconda란?
+- 파이썬 기본 컴파일러
+- 파이썬 주요 라이브러리
+- jupyter notebook 등 유용한 툴
+
+* 참고
+- 컴파일러: 프로그래밍 언어로 작성된 코드를 컴퓨터기 실행할 수 있는 코드로 변환하는 프로그램
+- 파이썬의 장점: 라이브러리 pip install library-name
+
+* jupyter notebook이란?
+- Editor
